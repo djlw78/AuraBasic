@@ -18,7 +18,7 @@ print "floor: " + floor(10)
 print "truncate: " + truncate(10)
 print "acos: " + acos(10)
 print "asin: " + asin(10)
-print "asin: " + atan(10)
+print "atan: " + atan(10)
 print "atan2: " + atan2(10, 10)
 print "ieeeremainder: " + ieeeremainder(10, 10)
 print "tan: " + tan(10)
@@ -26,6 +26,6 @@ print "max: " + max(10, 20)
 print "min: " + min(10, 20)
 print "not: " + not(10)
 print "PI: " + PI()
-print "E: " + E()
+print "E: " + E() + "\n"
 
 print "Random Math For Example " + (10 + 5) * 5
