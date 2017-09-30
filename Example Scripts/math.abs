@@ -1,0 +1,9 @@
+print "Basic Math Intrp"
+let a = 0
+let b = 0
+print "Enter the first number to multiply"
+input a
+print "Enter the second number to multiply"
+input b
+print "Here is your sum"
+print a * b
